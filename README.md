@@ -1,7 +1,7 @@
-<<<<<<< HEAD
+
 # naturalScrolling
 Seamlessly switch between natural scrolling on Macbook trackpad and traditional mouse scrolling
-=======
+
 # Natural Scrolling Auto
 
 A tiny macOS menu-bar agent that automatically turns **natural scrolling off when
@@ -63,4 +63,3 @@ Then click the menu-bar icon and enable **Open at Login** so it starts with macO
 With the app running, plug in (or Bluetooth-connect) a mouse: scrolling should flip
 to traditional immediately. Unplug it: scrolling returns to natural. No logout, no
 System Settings.
->>>>>>> 7372ea0 (stop switching settings!)
