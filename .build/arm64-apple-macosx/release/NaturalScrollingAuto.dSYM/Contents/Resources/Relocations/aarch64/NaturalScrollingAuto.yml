@@ -1,0 +1,55 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/eligoldberg/Desktop/projects/naturalScrolling/.build/arm64-apple-macosx/release/NaturalScrollingAuto'
+relocations:
+  - { offset: 0x137CBC, size: 0x8, addend: 0x0, symName: _NaturalScrollingAuto_main, symObjAddr: 0x0, symBinAddr: 0x1000011B8, symSize: 0xA0 }
+  - { offset: 0x137CE0, size: 0x8, addend: 0x0, symName: '_$s20NaturalScrollingAuto3appSo13NSApplicationCvp', symObjAddr: 0x1FE8, symBinAddr: 0x10000CCA0, symSize: 0x0 }
+  - { offset: 0x137CFA, size: 0x8, addend: 0x0, symName: '_$s20NaturalScrollingAuto8delegateAA11AppDelegateCvp', symObjAddr: 0x1FF0, symBinAddr: 0x10000CCA8, symSize: 0x0 }
+  - { offset: 0x137D2B, size: 0x8, addend: 0x0, symName: _NaturalScrollingAuto_main, symObjAddr: 0x0, symBinAddr: 0x1000011B8, symSize: 0xA0 }
+  - { offset: 0x137D5F, size: 0x8, addend: 0x0, symName: '_$sSo11CFStringRefaMa', symObjAddr: 0xA0, symBinAddr: 0x100001258, symSize: 0x50 }
+  - { offset: 0x137EBF, size: 0x8, addend: 0x0, symName: '_$s20NaturalScrollingAuto11AppDelegateC29applicationDidFinishLaunchingyy10Foundation12NotificationVF', symObjAddr: 0x0, symBinAddr: 0x1000012A8, symSize: 0x1A4 }
+  - { offset: 0x138116, size: 0x8, addend: 0x0, symName: '_$sIeg_IeyB_TR', symObjAddr: 0x68C, symBinAddr: 0x100001934, symSize: 0x2C }
+  - { offset: 0x13819E, size: 0x8, addend: 0x0, symName: '_$s20NaturalScrollingAuto11AppDelegateCfETo', symObjAddr: 0x129C, symBinAddr: 0x100002544, symSize: 0x48 }
+  - { offset: 0x1381CD, size: 0x8, addend: 0x0, symName: '_$s20NaturalScrollingAuto11AppDelegateCMa', symObjAddr: 0x12E4, symBinAddr: 0x10000258C, symSize: 0x20 }
+  - { offset: 0x1381E1, size: 0x8, addend: 0x0, symName: ___swift_instantiateConcreteTypeFromMangledNameV2, symObjAddr: 0x1304, symBinAddr: 0x1000025AC, symSize: 0x50 }
+  - { offset: 0x1381F5, size: 0x8, addend: 0x0, symName: '_$sSo17OS_dispatch_queueCMa', symObjAddr: 0x1354, symBinAddr: 0x1000025FC, symSize: 0x44 }
+  - { offset: 0x138209, size: 0x8, addend: 0x0, symName: '_$s20NaturalScrollingAuto11AppDelegateC14externalChange33_A02A91BF688A9AE03DE4ED65CEA5A713LLyyFyyScMYccfU_TA', symObjAddr: 0x13BC, symBinAddr: 0x100002664, symSize: 0x8 }
+  - { offset: 0x13821D, size: 0x8, addend: 0x0, symName: _block_copy_helper, symObjAddr: 0x13C4, symBinAddr: 0x10000266C, symSize: 0x10 }
+  - { offset: 0x138231, size: 0x8, addend: 0x0, symName: _block_destroy_helper, symObjAddr: 0x13D4, symBinAddr: 0x10000267C, symSize: 0x8 }
+  - { offset: 0x138245, size: 0x8, addend: 0x0, symName: '_$s8Dispatch0A13WorkItemFlagsVACs10SetAlgebraAAWl', symObjAddr: 0x13DC, symBinAddr: 0x100002684, symSize: 0x44 }
+  - { offset: 0x138259, size: 0x8, addend: 0x0, symName: '_$sSay8Dispatch0A13WorkItemFlagsVGSayxGSTsWl', symObjAddr: 0x1420, symBinAddr: 0x1000026C8, symSize: 0x50 }
+  - { offset: 0x13826D, size: 0x8, addend: 0x0, symName: ___swift_instantiateConcreteTypeFromMangledNameAbstractV2, symObjAddr: 0x1470, symBinAddr: 0x100002718, symSize: 0x54 }
+  - { offset: 0x138281, size: 0x8, addend: 0x0, symName: '_$s20NaturalScrollingAuto11AppDelegateC29applicationDidFinishLaunchingyy10Foundation12NotificationVFySbcfU_TA', symObjAddr: 0x14C4, symBinAddr: 0x10000276C, symSize: 0x8 }
+  - { offset: 0x138430, size: 0x8, addend: 0x0, symName: '_$s20NaturalScrollingAuto11AppDelegateC29applicationDidFinishLaunchingyy10Foundation12NotificationVF', symObjAddr: 0x0, symBinAddr: 0x1000012A8, symSize: 0x1A4 }
+  - { offset: 0x1384DF, size: 0x8, addend: 0x0, symName: '_$s20NaturalScrollingAuto11AppDelegateC29applicationDidFinishLaunchingyy10Foundation12NotificationVFySbcfU_', symObjAddr: 0x1A4, symBinAddr: 0x10000144C, symSize: 0x8C }
+  - { offset: 0x138655, size: 0x8, addend: 0x0, symName: '_$s20NaturalScrollingAuto11AppDelegateC9refreshUI33_A02A91BF688A9AE03DE4ED65CEA5A713LLyyF', symObjAddr: 0x230, symBinAddr: 0x1000014D8, symSize: 0x190 }
+  - { offset: 0x138703, size: 0x8, addend: 0x0, symName: '_$s20NaturalScrollingAuto11AppDelegateC29applicationDidFinishLaunchingyy10Foundation12NotificationVFTo', symObjAddr: 0x3C0, symBinAddr: 0x100001668, symSize: 0xA0 }
+  - { offset: 0x13874E, size: 0x8, addend: 0x0, symName: '_$s20NaturalScrollingAuto11AppDelegateC14externalChange33_A02A91BF688A9AE03DE4ED65CEA5A713LLyyF', symObjAddr: 0x460, symBinAddr: 0x100001708, symSize: 0x1D8 }
+  - { offset: 0x13879C, size: 0x8, addend: 0x0, symName: '_$s20NaturalScrollingAuto11AppDelegateC14externalChange33_A02A91BF688A9AE03DE4ED65CEA5A713LLyyFyyScMYccfU_', symObjAddr: 0x638, symBinAddr: 0x1000018E0, symSize: 0x54 }
+  - { offset: 0x1387C4, size: 0x8, addend: 0x0, symName: '_$s20NaturalScrollingAuto11AppDelegateC14externalChange33_A02A91BF688A9AE03DE4ED65CEA5A713LLyyFTo', symObjAddr: 0x6B8, symBinAddr: 0x100001960, symSize: 0x28 }
+  - { offset: 0x1388AA, size: 0x8, addend: 0x0, symName: '_$s20NaturalScrollingAuto11AppDelegateC11rebuildMenu33_A02A91BF688A9AE03DE4ED65CEA5A713LLyyF', symObjAddr: 0x6E0, symBinAddr: 0x100001988, symSize: 0x758 }
+  - { offset: 0x138CA7, size: 0x8, addend: 0x0, symName: '_$s20NaturalScrollingAuto11AppDelegateC11togglePause33_A02A91BF688A9AE03DE4ED65CEA5A713LLyyF', symObjAddr: 0xE38, symBinAddr: 0x1000020E0, symSize: 0x74 }
+  - { offset: 0x138D0D, size: 0x8, addend: 0x0, symName: '_$s20NaturalScrollingAuto11AppDelegateC11togglePause33_A02A91BF688A9AE03DE4ED65CEA5A713LLyyFTo', symObjAddr: 0xEAC, symBinAddr: 0x100002154, symSize: 0x28 }
+  - { offset: 0x138D21, size: 0x8, addend: 0x0, symName: '_$s20NaturalScrollingAuto11AppDelegateC12manualToggle33_A02A91BF688A9AE03DE4ED65CEA5A713LLyyF', symObjAddr: 0xED4, symBinAddr: 0x10000217C, symSize: 0xBC }
+  - { offset: 0x138D6D, size: 0x8, addend: 0x0, symName: '_$s20NaturalScrollingAuto11AppDelegateC12manualToggle33_A02A91BF688A9AE03DE4ED65CEA5A713LLyyFTo', symObjAddr: 0xF90, symBinAddr: 0x100002238, symSize: 0x28 }
+  - { offset: 0x138D8F, size: 0x8, addend: 0x0, symName: '_$s20NaturalScrollingAuto11AppDelegateC15toggleLoginItem33_A02A91BF688A9AE03DE4ED65CEA5A713LLyyF', symObjAddr: 0xFB8, symBinAddr: 0x100002260, symSize: 0x1D0 }
+  - { offset: 0x138E3A, size: 0x8, addend: 0x0, symName: '_$s20NaturalScrollingAuto11AppDelegateC15toggleLoginItem33_A02A91BF688A9AE03DE4ED65CEA5A713LLyyFTo', symObjAddr: 0x1188, symBinAddr: 0x100002430, symSize: 0x28 }
+  - { offset: 0x138E55, size: 0x8, addend: 0x0, symName: '_$s20NaturalScrollingAuto11AppDelegateC4quit33_A02A91BF688A9AE03DE4ED65CEA5A713LLyyFTo', symObjAddr: 0x11B0, symBinAddr: 0x100002458, symSize: 0x24 }
+  - { offset: 0x138E6D, size: 0x8, addend: 0x0, symName: '_$s20NaturalScrollingAuto11AppDelegateC4quit33_A02A91BF688A9AE03DE4ED65CEA5A713LLyyFTo', symObjAddr: 0x11B0, symBinAddr: 0x100002458, symSize: 0x24 }
+  - { offset: 0x138EB6, size: 0x8, addend: 0x0, symName: '_$s20NaturalScrollingAuto11AppDelegateCACycfcTo', symObjAddr: 0x11D4, symBinAddr: 0x10000247C, symSize: 0x94 }
+  - { offset: 0x138F00, size: 0x8, addend: 0x0, symName: '_$s20NaturalScrollingAuto11AppDelegateCfD', symObjAddr: 0x1268, symBinAddr: 0x100002510, symSize: 0x34 }
+  - { offset: 0x139027, size: 0x8, addend: 0x0, symName: '_$s20NaturalScrollingAuto12MouseMonitorC5startyyF', symObjAddr: 0x0, symBinAddr: 0x100002774, symSize: 0x16C }
+  - { offset: 0x13928A, size: 0x8, addend: 0x0, symName: '_$s20NaturalScrollingAuto12MouseMonitorCMa', symObjAddr: 0x2D8, symBinAddr: 0x100002A4C, symSize: 0x20 }
+  - { offset: 0x13929E, size: 0x8, addend: 0x0, symName: '_$sS2SSysWl', symObjAddr: 0x740, symBinAddr: 0x100002E70, symSize: 0x40 }
+  - { offset: 0x139331, size: 0x8, addend: 0x0, symName: '_$s20NaturalScrollingAuto12MouseMonitorC5startyyF', symObjAddr: 0x0, symBinAddr: 0x100002774, symSize: 0x16C }
+  - { offset: 0x13947D, size: 0x8, addend: 0x0, symName: '_$s20NaturalScrollingAuto12MouseMonitorC5startyyFySvSg_s6UInt32VtcfU_To', symObjAddr: 0x26C, symBinAddr: 0x1000029E0, symSize: 0x48 }
+  - { offset: 0x13952A, size: 0x8, addend: 0x0, symName: '_$s20NaturalScrollingAuto12MouseMonitorC7recount33_06B08EC5155CA3058A03EC5F47904D1FLLyyF', symObjAddr: 0x16C, symBinAddr: 0x1000028E0, symSize: 0x100 }
+  - { offset: 0x139643, size: 0x8, addend: 0x0, symName: '_$s20NaturalScrollingAuto12MouseMonitorCfD', symObjAddr: 0x2B4, symBinAddr: 0x100002A28, symSize: 0x24 }
+  - { offset: 0x139692, size: 0x8, addend: 0x0, symName: '_$s20NaturalScrollingAuto12MouseMonitorC23mouseMatchingDictionary33_06B08EC5155CA3058A03EC5F47904D1FLLSo09CFMutableH3RefayFTf4d_n', symObjAddr: 0x33C, symBinAddr: 0x100002A6C, symSize: 0x10C }
+  - { offset: 0x139726, size: 0x8, addend: 0x0, symName: '_$s20NaturalScrollingAuto12MouseMonitorC010isExternalD033_06B08EC5155CA3058A03EC5F47904D1FLLySbs6UInt32VFTf4nd_n', symObjAddr: 0x448, symBinAddr: 0x100002B78, symSize: 0x2F8 }
+  - { offset: 0x1398E6, size: 0x8, addend: 0x0, symName: '_$s20NaturalScrollingAuto25ScrollDirectionControllerC03setaB07enabledySb_tF', symObjAddr: 0x0, symBinAddr: 0x100002EB0, symSize: 0x110 }
+  - { offset: 0x139982, size: 0x8, addend: 0x0, symName: '_$s20NaturalScrollingAuto25ScrollDirectionControllerCMa', symObjAddr: 0x1C8, symBinAddr: 0x100003078, symSize: 0x20 }
+  - { offset: 0x13999E, size: 0x8, addend: 0x0, symName: '_$s20NaturalScrollingAuto25ScrollDirectionControllerC03setaB07enabledySb_tF', symObjAddr: 0x0, symBinAddr: 0x100002EB0, symSize: 0x110 }
+  - { offset: 0x1399E8, size: 0x8, addend: 0x0, symName: '_$s20NaturalScrollingAuto25ScrollDirectionControllerCACycfc', symObjAddr: 0x110, symBinAddr: 0x100002FC0, symSize: 0x94 }
+  - { offset: 0x139A90, size: 0x8, addend: 0x0, symName: '_$s20NaturalScrollingAuto25ScrollDirectionControllerCfD', symObjAddr: 0x1A4, symBinAddr: 0x100003054, symSize: 0x24 }
+...

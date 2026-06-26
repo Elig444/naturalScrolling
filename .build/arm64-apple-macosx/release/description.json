@@ -1,0 +1,276 @@
+{
+  "builtTestProducts" : [
+
+  ],
+  "copyCommands" : {
+
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.NaturalScrollingAuto-arm64-apple-macosx26.0-release.module" : {
+      "executable" : "/Library/Developer/CommandLineTools/usr/bin/swiftc",
+      "fileList" : "/Users/eligoldberg/Desktop/projects/naturalScrolling/.build/arm64-apple-macosx/release/NaturalScrollingAuto.build/sources",
+      "importPath" : "/Users/eligoldberg/Desktop/projects/naturalScrolling/.build/arm64-apple-macosx/release/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/eligoldberg/Desktop/projects/naturalScrolling/Sources/NaturalScrollingAuto/AppDelegate.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/eligoldberg/Desktop/projects/naturalScrolling/Sources/NaturalScrollingAuto/MouseMonitor.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/eligoldberg/Desktop/projects/naturalScrolling/Sources/NaturalScrollingAuto/ScrollDirectionController.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/eligoldberg/Desktop/projects/naturalScrolling/Sources/NaturalScrollingAuto/main.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/eligoldberg/Desktop/projects/naturalScrolling/.build/arm64-apple-macosx/release/swift-version--1AB21518FC5DEDBE.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/eligoldberg/Desktop/projects/naturalScrolling/.build/arm64-apple-macosx/release/NaturalScrollingAuto.build/sources"
+        }
+      ],
+      "isLibrary" : false,
+      "moduleName" : "NaturalScrollingAuto",
+      "moduleOutputPath" : "/Users/eligoldberg/Desktop/projects/naturalScrolling/.build/arm64-apple-macosx/release/Modules/NaturalScrollingAuto.swiftmodule",
+      "objects" : [
+        "/Users/eligoldberg/Desktop/projects/naturalScrolling/.build/arm64-apple-macosx/release/NaturalScrollingAuto.build/AppDelegate.swift.o",
+        "/Users/eligoldberg/Desktop/projects/naturalScrolling/.build/arm64-apple-macosx/release/NaturalScrollingAuto.build/MouseMonitor.swift.o",
+        "/Users/eligoldberg/Desktop/projects/naturalScrolling/.build/arm64-apple-macosx/release/NaturalScrollingAuto.build/ScrollDirectionController.swift.o",
+        "/Users/eligoldberg/Desktop/projects/naturalScrolling/.build/arm64-apple-macosx/release/NaturalScrollingAuto.build/main.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx13.0",
+        "-whole-module-optimization",
+        "-num-threads",
+        "18",
+        "-serialize-diagnostics",
+        "-O",
+        "-j18",
+        "-DSWIFT_PACKAGE",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/eligoldberg/Desktop/projects/naturalScrolling/.build/arm64-apple-macosx/release/ModuleCache",
+        "-parseable-output",
+        "-Xfrontend",
+        "-entry-point-function-name",
+        "-Xfrontend",
+        "NaturalScrollingAuto_main",
+        "-swift-version",
+        "5",
+        "-I",
+        "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+        "-L",
+        "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+        "-plugin-path",
+        "/Library/Developer/CommandLineTools/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "naturalscrolling"
+      ],
+      "outputFileMapPath" : "/Users/eligoldberg/Desktop/projects/naturalScrolling/.build/arm64-apple-macosx/release/NaturalScrollingAuto.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/eligoldberg/Desktop/projects/naturalScrolling/.build/arm64-apple-macosx/release/NaturalScrollingAuto.build/AppDelegate.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/eligoldberg/Desktop/projects/naturalScrolling/.build/arm64-apple-macosx/release/NaturalScrollingAuto.build/MouseMonitor.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/eligoldberg/Desktop/projects/naturalScrolling/.build/arm64-apple-macosx/release/NaturalScrollingAuto.build/ScrollDirectionController.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/eligoldberg/Desktop/projects/naturalScrolling/.build/arm64-apple-macosx/release/NaturalScrollingAuto.build/main.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/eligoldberg/Desktop/projects/naturalScrolling/.build/arm64-apple-macosx/release/Modules/NaturalScrollingAuto.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/eligoldberg/Desktop/projects/naturalScrolling/Sources/NaturalScrollingAuto/AppDelegate.swift",
+        "/Users/eligoldberg/Desktop/projects/naturalScrolling/Sources/NaturalScrollingAuto/MouseMonitor.swift",
+        "/Users/eligoldberg/Desktop/projects/naturalScrolling/Sources/NaturalScrollingAuto/ScrollDirectionController.swift",
+        "/Users/eligoldberg/Desktop/projects/naturalScrolling/Sources/NaturalScrollingAuto/main.swift"
+      ],
+      "tempsPath" : "/Users/eligoldberg/Desktop/projects/naturalScrolling/.build/arm64-apple-macosx/release/NaturalScrollingAuto.build",
+      "wholeModuleOptimization" : true
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "NaturalScrollingAuto" : [
+      "/Library/Developer/CommandLineTools/usr/bin/swiftc",
+      "-module-name",
+      "NaturalScrollingAuto",
+      "-package-name",
+      "naturalscrolling",
+      "-c",
+      "/Users/eligoldberg/Desktop/projects/naturalScrolling/Sources/NaturalScrollingAuto/AppDelegate.swift",
+      "/Users/eligoldberg/Desktop/projects/naturalScrolling/Sources/NaturalScrollingAuto/MouseMonitor.swift",
+      "/Users/eligoldberg/Desktop/projects/naturalScrolling/Sources/NaturalScrollingAuto/ScrollDirectionController.swift",
+      "/Users/eligoldberg/Desktop/projects/naturalScrolling/Sources/NaturalScrollingAuto/main.swift",
+      "-I",
+      "/Users/eligoldberg/Desktop/projects/naturalScrolling/.build/arm64-apple-macosx/release/Modules",
+      "-target",
+      "arm64-apple-macosx13.0",
+      "-whole-module-optimization",
+      "-num-threads",
+      "18",
+      "-serialize-diagnostics",
+      "-O",
+      "-j18",
+      "-DSWIFT_PACKAGE",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/eligoldberg/Desktop/projects/naturalScrolling/.build/arm64-apple-macosx/release/ModuleCache",
+      "-parseable-output",
+      "-Xfrontend",
+      "-entry-point-function-name",
+      "-Xfrontend",
+      "NaturalScrollingAuto_main",
+      "-swift-version",
+      "5",
+      "-I",
+      "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+      "-L",
+      "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+      "-plugin-path",
+      "/Library/Developer/CommandLineTools/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "naturalscrolling",
+      "-driver-use-frontend-path",
+      "/Library/Developer/CommandLineTools/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "NaturalScrollingAuto" : [
+
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+
+  },
+  "traitConfiguration" : {
+    "default" : {
+
+    }
+  },
+  "writeCommands" : {
+    "/Users/eligoldberg/Desktop/projects/naturalScrolling/.build/arm64-apple-macosx/release/NaturalScrollingAuto.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/eligoldberg/Desktop/projects/naturalScrolling/Sources/NaturalScrollingAuto/AppDelegate.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/eligoldberg/Desktop/projects/naturalScrolling/Sources/NaturalScrollingAuto/MouseMonitor.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/eligoldberg/Desktop/projects/naturalScrolling/Sources/NaturalScrollingAuto/ScrollDirectionController.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/eligoldberg/Desktop/projects/naturalScrolling/Sources/NaturalScrollingAuto/main.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/eligoldberg/Desktop/projects/naturalScrolling/.build/arm64-apple-macosx/release/NaturalScrollingAuto.build/sources"
+    },
+    "/Users/eligoldberg/Desktop/projects/naturalScrolling/.build/arm64-apple-macosx/release/NaturalScrollingAuto.product/Objects.LinkFileList" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<link-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/eligoldberg/Desktop/projects/naturalScrolling/.build/arm64-apple-macosx/release/NaturalScrollingAuto.build/AppDelegate.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/eligoldberg/Desktop/projects/naturalScrolling/.build/arm64-apple-macosx/release/NaturalScrollingAuto.build/MouseMonitor.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/eligoldberg/Desktop/projects/naturalScrolling/.build/arm64-apple-macosx/release/NaturalScrollingAuto.build/ScrollDirectionController.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/eligoldberg/Desktop/projects/naturalScrolling/.build/arm64-apple-macosx/release/NaturalScrollingAuto.build/main.swift.o"
+        }
+      ],
+      "outputFilePath" : "/Users/eligoldberg/Desktop/projects/naturalScrolling/.build/arm64-apple-macosx/release/NaturalScrollingAuto.product/Objects.LinkFileList"
+    },
+    "/Users/eligoldberg/Desktop/projects/naturalScrolling/.build/arm64-apple-macosx/release/swift-version--1AB21518FC5DEDBE.txt" : {
+      "alwaysOutOfDate" : true,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<swift-get-version>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Library/Developer/CommandLineTools/usr/bin/swiftc"
+        }
+      ],
+      "outputFilePath" : "/Users/eligoldberg/Desktop/projects/naturalScrolling/.build/arm64-apple-macosx/release/swift-version--1AB21518FC5DEDBE.txt"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "": {
+    "dependencies": "/Users/eligoldberg/Desktop/projects/naturalScrolling/.build/arm64-apple-macosx/release/NaturalScrollingAuto.build/NaturalScrollingAuto.d",
+    "object": "/Users/eligoldberg/Desktop/projects/naturalScrolling/.build/arm64-apple-macosx/release/NaturalScrollingAuto.build/NaturalScrollingAuto.o",
+    "swift-dependencies": "/Users/eligoldberg/Desktop/projects/naturalScrolling/.build/arm64-apple-macosx/release/NaturalScrollingAuto.build/master.swiftdeps"
+  },
+  "/Users/eligoldberg/Desktop/projects/naturalScrolling/Sources/NaturalScrollingAuto/AppDelegate.swift": {
+    "object": "/Users/eligoldberg/Desktop/projects/naturalScrolling/.build/arm64-apple-macosx/release/NaturalScrollingAuto.build/AppDelegate.swift.o",
+    "swiftmodule": "/Users/eligoldberg/Desktop/projects/naturalScrolling/.build/arm64-apple-macosx/release/NaturalScrollingAuto.build/AppDelegate~partial.swiftmodule",
+    "swift-dependencies": "/Users/eligoldberg/Desktop/projects/naturalScrolling/.build/arm64-apple-macosx/release/NaturalScrollingAuto.build/AppDelegate.swiftdeps",
+    "diagnostics": "/Users/eligoldberg/Desktop/projects/naturalScrolling/.build/arm64-apple-macosx/release/NaturalScrollingAuto.build/AppDelegate.dia"
+  },
+  "/Users/eligoldberg/Desktop/projects/naturalScrolling/Sources/NaturalScrollingAuto/MouseMonitor.swift": {
+    "object": "/Users/eligoldberg/Desktop/projects/naturalScrolling/.build/arm64-apple-macosx/release/NaturalScrollingAuto.build/MouseMonitor.swift.o",
+    "swiftmodule": "/Users/eligoldberg/Desktop/projects/naturalScrolling/.build/arm64-apple-macosx/release/NaturalScrollingAuto.build/MouseMonitor~partial.swiftmodule",
+    "swift-dependencies": "/Users/eligoldberg/Desktop/projects/naturalScrolling/.build/arm64-apple-macosx/release/NaturalScrollingAuto.build/MouseMonitor.swiftdeps",
+    "diagnostics": "/Users/eligoldberg/Desktop/projects/naturalScrolling/.build/arm64-apple-macosx/release/NaturalScrollingAuto.build/MouseMonitor.dia"
+  },
+  "/Users/eligoldberg/Desktop/projects/naturalScrolling/Sources/NaturalScrollingAuto/ScrollDirectionController.swift": {
+    "object": "/Users/eligoldberg/Desktop/projects/naturalScrolling/.build/arm64-apple-macosx/release/NaturalScrollingAuto.build/ScrollDirectionController.swift.o",
+    "swiftmodule": "/Users/eligoldberg/Desktop/projects/naturalScrolling/.build/arm64-apple-macosx/release/NaturalScrollingAuto.build/ScrollDirectionController~partial.swiftmodule",
+    "swift-dependencies": "/Users/eligoldberg/Desktop/projects/naturalScrolling/.build/arm64-apple-macosx/release/NaturalScrollingAuto.build/ScrollDirectionController.swiftdeps",
+    "diagnostics": "/Users/eligoldberg/Desktop/projects/naturalScrolling/.build/arm64-apple-macosx/release/NaturalScrollingAuto.build/ScrollDirectionController.dia"
+  },
+  "/Users/eligoldberg/Desktop/projects/naturalScrolling/Sources/NaturalScrollingAuto/main.swift": {
+    "object": "/Users/eligoldberg/Desktop/projects/naturalScrolling/.build/arm64-apple-macosx/release/NaturalScrollingAuto.build/main.swift.o",
+    "swiftmodule": "/Users/eligoldberg/Desktop/projects/naturalScrolling/.build/arm64-apple-macosx/release/NaturalScrollingAuto.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/eligoldberg/Desktop/projects/naturalScrolling/.build/arm64-apple-macosx/release/NaturalScrollingAuto.build/main.swiftdeps",
+    "diagnostics": "/Users/eligoldberg/Desktop/projects/naturalScrolling/.build/arm64-apple-macosx/release/NaturalScrollingAuto.build/main.dia"
+  }
+}
